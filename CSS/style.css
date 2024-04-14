@@ -1,0 +1,7 @@
+.tablasueldos {
+    border-collapse: collapse;
+}
+.tablasueldos td {
+    border: 1px dotted rgb(248, 9, 9);
+    padding: 4px;
+}
